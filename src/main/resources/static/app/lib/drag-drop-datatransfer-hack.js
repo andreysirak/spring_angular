@@ -1,0 +1,1 @@
+jQuery.event.props.push('dataTransfer');
